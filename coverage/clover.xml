@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1581578168846" clover="3.2.0">
+  <project timestamp="1581578168847" name="All files">
+    <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2" elements="11" coveredelements="11" complexity="0" loc="7" ncloc="7" packages="1" files="2" classes="2"/>
+    <file name="capitalize.js" path="/mnt/c/Users/User/Documents/Coding/MY PROJECTS/Верстка/hexlet-jest/src/capitalize.js">
+      <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <line num="2" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="8" count="5" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+    </file>
+    <file name="reverse.js" path="/mnt/c/Users/User/Documents/Coding/MY PROJECTS/Верстка/hexlet-jest/src/reverse.js">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="2" type="stmt"/>
+    </file>
+  </project>
+</coverage>
